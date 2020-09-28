@@ -1,0 +1,58 @@
+body {
+  font-size: 13px;
+}
+
+#form-search {
+  display: none;
+}
+
+#span-search {
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.search-field {
+  border: none;
+  border-bottom: 2px solid grey;
+  outline: none;
+  height: 30px;
+  width: 150px;
+  position: relative;
+  top: 3px;
+  font-size: 16px;
+}
+
+.content {
+  background: url('images/section-background.jpg');
+  background-size: cover;
+}
+
+.icon-circle {
+  position: relative;
+  top: -30px;
+}
+
+.icon-circle span {
+  width: 45px;
+  height: 45px;
+  font-size: 25px;
+  padding-top: 10px;
+}
+
+.carousel-dot {
+  width: 10px !important;
+  height: 10px !important;
+}
+
+.btn-view-all {
+  width: 200px;
+}
+
+#aboutUs {
+  background: url('images/about-us.png');
+  background-size: cover;
+}
+
+#aboutUs .info {
+  background: transparent;
+}
